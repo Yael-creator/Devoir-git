@@ -17,6 +17,3 @@
 2. Configurer `includes/db.php`
 3. Lancer `index.php` via serveur local (XAMPP, WAMP...)
 
-## Lien GitHub
-
-[https://github.com/ton-pseudo/nom-du-depot](https://github.com/ton-pseudo/nom-du-depot)
